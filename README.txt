@@ -1,2 +1,1 @@
-MOTHATRUCKAMOTHATRUCKA
-
+"Hello, World!"
